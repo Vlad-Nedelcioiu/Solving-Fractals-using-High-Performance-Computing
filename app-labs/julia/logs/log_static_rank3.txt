@@ -1,0 +1,2 @@
+Execution time per 3300-row chunk (schedule: static) - Rank 3
+Rank 3, Rows 9900-13199: 22.375969 seconds

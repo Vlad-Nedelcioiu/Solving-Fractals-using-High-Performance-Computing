@@ -1,0 +1,4 @@
+Schedule: static (rank 0)
+Execution time: 1.927512 seconds
+Threads used: 2
+Processors available: 12

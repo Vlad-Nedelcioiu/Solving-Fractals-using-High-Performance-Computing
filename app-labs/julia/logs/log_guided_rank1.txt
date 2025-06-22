@@ -1,0 +1,2 @@
+Execution time per 3300-row chunk (schedule: guided) - Rank 1
+Rank 1, Rows 3300-6599: 7.284117 seconds

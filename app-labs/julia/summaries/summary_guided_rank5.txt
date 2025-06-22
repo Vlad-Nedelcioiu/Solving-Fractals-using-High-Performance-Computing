@@ -1,0 +1,4 @@
+Schedule: guided (rank 5)
+Execution time: 1.899111 seconds
+Threads used: 2
+Processors available: 12

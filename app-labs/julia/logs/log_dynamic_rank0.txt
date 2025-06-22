@@ -1,0 +1,2 @@
+Execution time per 3300-row chunk (schedule: dynamic) - Rank 0
+Rank 0, Rows    0-3299: 1.155843 seconds

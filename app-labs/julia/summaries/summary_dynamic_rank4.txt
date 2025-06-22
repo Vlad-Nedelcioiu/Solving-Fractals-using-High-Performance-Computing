@@ -1,0 +1,4 @@
+Schedule: dynamic (rank 4)
+Execution time: 6.963050 seconds
+Threads used: 2
+Processors available: 12

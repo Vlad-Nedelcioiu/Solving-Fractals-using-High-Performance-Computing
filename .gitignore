@@ -1,0 +1,5 @@
+app-labs/**/venv/
+app-labs/**/__pycache__/
+*.pyc
+*.log
+*.tmp
